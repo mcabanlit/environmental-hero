@@ -1,4 +1,4 @@
-## Environmental Studies Projects [![gcash donation][1]][2] [![paypal donation][3]][4]
+# Environmental Studies Projects [![gcash donation][1]][2] [![paypal donation][3]][4]
 
 This is a collection of a portion of some environmental projects that I have worked on. Unfortunately only a few of the working files have been recovered and most of the remaining files that can be accessed are presentation files only. However, if you would like to discuss methodologies and recreating the project, please do not hesitate to send me an [email](mailto:john@example.com).
 
